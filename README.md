@@ -27,7 +27,7 @@
 
 ### 👨‍💻 About Me :
 
-- :telescope: I am a second year student at the University of California, Merced pursuing a bachaelors in Computer Science and Engineering.
+- :telescope: I am a third-year student at the University of California, Merced pursuing a bachelors in Computer Science and Engineering.
 
 - :seedling: Currently learning to build web apps
 
