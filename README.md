@@ -27,11 +27,11 @@
 
 ### 👨‍💻 About Me :
 
-- :telescope: I am a third-year student at the University of California, Merced pursuing a bachelors in Computer Science and Engineering.
+- :telescope: I am a fourth-year student at the University of California, Merced pursuing a bachelors in Computer Science and Engineering.
 
-- :seedling: Currently learning to build web apps
+- :seedling: Currently working as a ServiceNow Student Consultant and Undergraduate Researcher at Professor Cerpa's SmartGrid Laboratory
 
-- :zap: In my free time I like to solve programming questions and work on personal projects
+- :zap: :)
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Adit-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/adit-khandelwal-3043b3255/)
 ---
