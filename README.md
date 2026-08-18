@@ -27,9 +27,9 @@
 
 ### 👨‍💻 About Me :
 
-- :telescope: I am a fourth-year student at the University of California, Merced pursuing a bachelors in Computer Science and Engineering.
+- :telescope: I graduated from the University of California, Merced, where I pursued a bachelor's in Computer Science and Engineering.
 
-- :seedling: Currently working as a ServiceNow Student Consultant and Undergraduate Researcher at Professor Cerpa's SmartGrid Laboratory
+- :seedling: Currently looking for Software Engineering Opportunities within AI, ML, and Data.
 
 - :zap: :)
 
